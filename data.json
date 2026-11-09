@@ -2,9 +2,9 @@
   "site": {
     "name": "Портфолио",
     "tagline": "Брендинг · Визуализация · Видео",
-    "email": "",
+    "email": "mpaint@mail.ru",
     "phone": "",
-    "telegram": ""
+    "telegram": "@rmnkrn"
   },
   "sections": [
     {
@@ -94,14 +94,6 @@
           "orig": "logo/albom (1).jpg"
         },
         {
-          "src": "img/branding/logo-1-l.webp",
-          "sm": "img/branding/logo-1-s.webp",
-          "w": 1376,
-          "h": 768,
-          "alt": "",
-          "orig": "logo/logo- (1).jpg"
-        },
-        {
           "src": "img/branding/logo-2-l.webp",
           "sm": "img/branding/logo-2-s.webp",
           "w": 1376,
@@ -150,14 +142,6 @@
           "orig": "msedge_P4T3p7EKPd.png"
         },
         {
-          "src": "img/branding/msedge-m70ocwljfd-6lgs-l.webp",
-          "sm": "img/branding/msedge-m70ocwljfd-6lgs-s.webp",
-          "w": 1114,
-          "h": 771,
-          "alt": "",
-          "orig": "msedge_M70ocWljfD.png"
-        },
-        {
           "src": "img/branding/msedge-br3rhgpcxv-0suv-l.webp",
           "sm": "img/branding/msedge-br3rhgpcxv-0suv-s.webp",
           "w": 1105,
@@ -174,14 +158,6 @@
           "orig": "msedge_klyVm6uvAH.jpg"
         },
         {
-          "src": "img/branding/msedge-ullfcidkxt-rxgh-l.webp",
-          "sm": "img/branding/msedge-ullfcidkxt-rxgh-s.webp",
-          "w": 1126,
-          "h": 807,
-          "alt": "",
-          "orig": "msedge_ULlfCIdkXT.png"
-        },
-        {
           "src": "img/branding/d3080b42abe6c615ddfd1b9ff93f21b0-3d5243dd-7265-434-vswy-l.webp",
           "sm": "img/branding/d3080b42abe6c615ddfd1b9ff93f21b0-3d5243dd-7265-434-vswy-s.webp",
           "w": 1376,
@@ -196,6 +172,70 @@
           "h": 768,
           "alt": "",
           "orig": "d15ce4eb88ee8526a906d0713320f7ed_26ff612d-8c20-4f6c-8afe-fe9e9b44941c.jpg"
+        },
+        {
+          "src": "img/branding/pd-logobook-page-1-t1by-l.webp",
+          "sm": "img/branding/pd-logobook-page-1-t1by-s.webp",
+          "w": 1210,
+          "h": 794,
+          "alt": "",
+          "orig": "PD-logobook_page_1.jpg"
+        },
+        {
+          "src": "img/branding/pd-logobook-page-3-t0nb-l.webp",
+          "sm": "img/branding/pd-logobook-page-3-t0nb-s.webp",
+          "w": 1210,
+          "h": 794,
+          "alt": "",
+          "orig": "PD-logobook_page_3.jpg"
+        },
+        {
+          "src": "img/branding/pd-logobook-page-7-ent8-l.webp",
+          "sm": "img/branding/pd-logobook-page-7-ent8-s.webp",
+          "w": 1210,
+          "h": 794,
+          "alt": "",
+          "orig": "PD-logobook_page_7.jpg"
+        },
+        {
+          "src": "img/branding/pd-logobook-page-9-fhg1-l.webp",
+          "sm": "img/branding/pd-logobook-page-9-fhg1-s.webp",
+          "w": 1210,
+          "h": 794,
+          "alt": "",
+          "orig": "PD-logobook_page_9.jpg"
+        },
+        {
+          "src": "img/branding/pd-logobook-page-11-h2d8-l.webp",
+          "sm": "img/branding/pd-logobook-page-11-h2d8-s.webp",
+          "w": 1210,
+          "h": 794,
+          "alt": "",
+          "orig": "PD-logobook_page_11.jpg"
+        },
+        {
+          "src": "img/branding/pd-logobook-page-13-ck13-l.webp",
+          "sm": "img/branding/pd-logobook-page-13-ck13-s.webp",
+          "w": 1210,
+          "h": 794,
+          "alt": "",
+          "orig": "PD-logobook_page_13.jpg"
+        },
+        {
+          "src": "img/branding/pd-logobook-page-15-ymug-l.webp",
+          "sm": "img/branding/pd-logobook-page-15-ymug-s.webp",
+          "w": 1210,
+          "h": 794,
+          "alt": "",
+          "orig": "PD-logobook_page_15.jpg"
+        },
+        {
+          "src": "img/branding/pd-logobook-page-16-av6p-l.webp",
+          "sm": "img/branding/pd-logobook-page-16-av6p-s.webp",
+          "w": 1210,
+          "h": 794,
+          "alt": "",
+          "orig": "PD-logobook_page_16.jpg"
         }
       ]
     },
@@ -205,6 +245,14 @@
       "type": "images",
       "visible": true,
       "items": [
+        {
+          "src": "img/viz/image-1-qjtj-l.webp",
+          "sm": "img/viz/image-1-qjtj-s.webp",
+          "w": 2400,
+          "h": 1523,
+          "alt": "",
+          "orig": "Image_1.jpg"
+        },
         {
           "src": "img/viz/tramvay-2-l.webp",
           "sm": "img/viz/tramvay-2-s.webp",
@@ -238,20 +286,20 @@
           "orig": "vizual/Scene 5_4.jpg"
         },
         {
+          "src": "img/viz/scene-83-1-m97l-l.webp",
+          "sm": "img/viz/scene-83-1-m97l-s.webp",
+          "w": 2400,
+          "h": 1522,
+          "alt": "",
+          "orig": "Scene 83_1.jpg"
+        },
+        {
           "src": "img/viz/scene-48-1-l.webp",
           "sm": "img/viz/scene-48-1-s.webp",
           "w": 2400,
           "h": 1350,
           "alt": "",
           "orig": "vizual/Scene 48_1.jpg"
-        },
-        {
-          "src": "img/viz/scene-48-1-1-l.webp",
-          "sm": "img/viz/scene-48-1-1-s.webp",
-          "w": 2400,
-          "h": 1350,
-          "alt": "",
-          "orig": "vizual/Scene 48_1_1.jpg"
         },
         {
           "src": "img/viz/scene-84-1-l.webp",
@@ -278,12 +326,28 @@
           "orig": "vizual/Scene 89_2_Pipeline_20261014-222612.jpg"
         },
         {
+          "src": "img/viz/scene-123-bcfv-l.webp",
+          "sm": "img/viz/scene-123-bcfv-s.webp",
+          "w": 2400,
+          "h": 1522,
+          "alt": "",
+          "orig": "Scene 123.jpg"
+        },
+        {
           "src": "img/viz/scene-93-l.webp",
           "sm": "img/viz/scene-93-s.webp",
           "w": 2400,
           "h": 1522,
           "alt": "",
           "orig": "vizual/Scene 93_Pipeline_20261014-222612.jpg"
+        },
+        {
+          "src": "img/viz/scene-27-1-k32e-l.webp",
+          "sm": "img/viz/scene-27-1-k32e-s.webp",
+          "w": 2400,
+          "h": 1522,
+          "alt": "",
+          "orig": "Scene 27_1.jpg"
         },
         {
           "src": "img/viz/titul-gp-09-l.webp",
@@ -532,15 +596,55 @@
           "h": 1523,
           "alt": "",
           "orig": "Veter_2_ (49).jpg"
+        },
+        {
+          "src": "img/viz/scene-10-1-arbn-l.webp",
+          "sm": "img/viz/scene-10-1-arbn-s.webp",
+          "w": 2400,
+          "h": 1522,
+          "alt": "",
+          "orig": "Scene 10_1.jpg"
+        },
+        {
+          "src": "img/viz/scene-13-2-1-oryt-l.webp",
+          "sm": "img/viz/scene-13-2-1-oryt-s.webp",
+          "w": 2400,
+          "h": 1522,
+          "alt": "",
+          "orig": "Scene 13_2_1.jpg"
         }
       ]
     },
     {
       "id": "albums",
-      "title": "Альбомы",
+      "title": "Альбомы (печатная продукция)",
       "type": "images",
       "visible": true,
       "items": [
+        {
+          "src": "img/albums/photo-2026-11-09-17-17-35-69kd-l.webp",
+          "sm": "img/albums/photo-2026-11-09-17-17-35-69kd-s.webp",
+          "w": 1280,
+          "h": 960,
+          "alt": "",
+          "orig": "photo_2026-11-09_17-17-35.jpg"
+        },
+        {
+          "src": "img/albums/photo-2026-11-09-17-17-38-pazf-l.webp",
+          "sm": "img/albums/photo-2026-11-09-17-17-38-pazf-s.webp",
+          "w": 960,
+          "h": 1280,
+          "alt": "",
+          "orig": "photo_2026-11-09_17-17-38.jpg"
+        },
+        {
+          "src": "img/albums/photo-2026-11-09-17-17-02-yme5-l.webp",
+          "sm": "img/albums/photo-2026-11-09-17-17-02-yme5-s.webp",
+          "w": 1280,
+          "h": 960,
+          "alt": "",
+          "orig": "photo_2026-11-09_17-17-02.jpg"
+        },
         {
           "src": "img/albums/8f31b1a60872458728501332731c726f-cdc53f1f-5415-4e2c-b729-c22484fc1a2b-l.webp",
           "sm": "img/albums/8f31b1a60872458728501332731c726f-cdc53f1f-5415-4e2c-b729-c22484fc1a2b-s.webp",
@@ -660,7 +764,7 @@
     },
     {
       "id": "tour360",
-      "title": "360-тур",
+      "title": "360-тур (свой движок)",
       "type": "videos",
       "visible": true,
       "items": [
@@ -671,7 +775,7 @@
     },
     {
       "id": "model",
-      "title": "Цифровой макет",
+      "title": "Цифровой макет (Unreal Engine)",
       "type": "videos",
       "visible": true,
       "items": [
